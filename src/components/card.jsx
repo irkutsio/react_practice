@@ -1,5 +1,5 @@
 import data from '../data.json'
-import { Header } from './header';
+import { Header  } from './header';
 
 export const Card = () => {
     return data.map(photo => {
